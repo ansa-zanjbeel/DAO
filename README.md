@@ -1,7 +1,7 @@
-npx hardhat help
-npx hardhat compile
-npx hardhat test
-npx hardhat deploy
+npx hardhat help <br>
+npx hardhat compile  <br>
+npx hardhat test  <br>
+npx hardhat deploy  <br>
 
 
 ```
